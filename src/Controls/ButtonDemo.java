@@ -4,6 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 public class ButtonDemo extends Frame
 {
+    //Comment
     Button b1, b2;
     ButtonDemo ()
     {
